@@ -1,0 +1,43 @@
+ body{
+    font-family: sans-serif;
+    background-color: #CCECEF;
+    color: #22404D;
+ }
+
+.titulo{
+    text-align: center;
+}
+
+.cor-de-titulo{
+    background-color: #00A0AF;
+}
+
+.margem{
+    margin: 80px;
+}
+
+.borda{
+    border: 20px solid #22404D;
+}
+
+.preenchimento{
+    padding: 80px;
+}
+
+.preenchimento-titulo{
+    padding: 1px;
+}
+
+a{
+    text-align: center;
+    text-decoration: none;
+    color: #00A0AF;
+    padding: 5px;
+    border-radius: 10px;
+
+}
+
+a:hover{
+    background-color: #E3E24F;
+    color:black;
+}
